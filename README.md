@@ -63,7 +63,8 @@ or(f1,p,q,r);
 ![315914208-e304bd09-b312-4ebc-a65c-8fbf5f32e951](https://github.com/ganeshprabhu2005/BOOLEAN_FUNCTION_MINIMIZATION/assets/146162190/5c1223da-5acb-4ec4-8917-44e475efd3a6)
 
 **RTL**
-![315914208-e304bd09-b312-4ebc-a65c-8fbf5f32e951](https://github.com/ganeshprabhu2005/BOOLEAN_FUNCTION_MINIMIZATION/assets/146162190/029d4900-0ffe-4ef1-a19a-07e02adbd746)
+![315913995-cfef8245-474f-4443-bc8e-1eb88554cdbb](https://github.com/ganeshprabhu2005/BOOLEAN_FUNCTION_MINIMIZATION/assets/146162190/94028db0-3136-465c-b52a-fd18af5f845c)
+
 
 
 **Timing Diagram**
